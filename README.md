@@ -1,2 +1,3 @@
-This is a personal website for shourgamer2
-visit = https://shourgamer2.tk
+visit my website = https://shourgamer2.tk/
+I am coder and a game dev
+join my discord = https://discord.gg/4Ekyvrkyxn
