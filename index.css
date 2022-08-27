@@ -81,6 +81,7 @@ div.projectscroll{
 
 .Sponsor{
     background-color: #333;
+ overflow:hidden; 
       font-family: 'Titan One', cursive;
     
 }
