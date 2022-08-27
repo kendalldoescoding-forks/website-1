@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Titan+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Lobster&family=Pacifico&family=Titan+One&display=swap');
-
+html{
+ display:inline-block;
+}
 .Intro
 {  
 
@@ -49,7 +51,7 @@
 
 .Contact{
     background-color: #333;
-            display:inline-block;
+          
   font-family: 'Titan One', cursive;
 }
 .Skills{
